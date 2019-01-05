@@ -9,7 +9,7 @@
     </parent>
     <groupId>io.lucian</groupId>
     <artifactId>maven-release</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>maven-release</name>
     <description>Maven Release POC</description>
 
@@ -48,7 +48,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:lucianmachado/maven-release-poc.git</developerConnection>
-      <tag>maven-release-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
